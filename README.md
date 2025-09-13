@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Justinbown8
+- 👋 Hi, I’m Hemant Sambaria
 - 👀 I’m interested in java and AI tools. 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python...
+- 💞️ I’m looking to collaborate on any complex web apps...
+- 📫 How to reach me? +91 704-204-9747
 - 😄 Pronouns: He/him
 
 
-<!---
-Justinbown8/Justinbown8 is a ✨ special anime character called inosuke✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
